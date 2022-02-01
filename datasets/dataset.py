@@ -47,30 +47,23 @@ class TrainDataset(Dataset):
 
     def __getitem__(self, idx):
         receipt     = self.train_dicts[idx]
-        tokens      = word_tokenize(receipt["text"].lower())
-        
-        # Code to remove duplicates in O(NlogN)
-        used = set()
-        unique = [token for token in tokens if token not in used and (used.add(token) or True)]
-        tokens = unique
+        text_tensor = torch.zeros(2048, dtype=torch.long)
+        labels      = torch.zeros(2048, 4,   dtype=torch.float64)
 
-        text_tensor = torch.zeros(len(tokens), 128, dtype=torch.long)
-        labels      = torch.zeros(len(tokens), dtype=torch.long)
-
-        for i, token in enumerate(tokens):
-            # Text
-            for j, char in enumerate(token):
-                text_tensor[i][j] = self.VOCAB.find(char)+1
+        for i, char in enumerate(receipt['text']):
+            text_tensor[i] = self.VOCAB.find(char)+1
 
             # Label
-            labels[i] = 3 # Indicates that this token means nothing
-            for j, key in enumerate(receipt.keys()):
-                # The first field isn't a parameter
-                if(key == "text"):
-                    continue
+            labels[i][3] = 1 # Indicates that this token means nothing
+#             for j, key in enumerate(receipt.keys()):
+#                 # The first field isn't a parameter
+#                 if(key == "text"):
+#                     continue
 
-                # Found token in key
-                if(key.lower().find(token) != -1):
-                    labels[i] = j-1
+#                 # Found token in key
+#                 if(receipt[key].lower().find(token) != -1):
+#                     labels[i][3]   = 0
+#                     labels[i][j-1] = 1
+#                     break
 
-        return text_tensor, labels
+        return text_tensor, labels, receipt
