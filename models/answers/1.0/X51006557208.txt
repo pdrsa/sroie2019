@@ -1,0 +1,1 @@
+{"company": "GARDENIA BAKERIES (K", "date": "07/10/2017", "address": ",", "total": "8.34"}

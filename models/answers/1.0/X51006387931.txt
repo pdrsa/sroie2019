@@ -1,0 +1,1 @@
+{"company": "AMANO MALAYSIA SDN B", "date": "30/04/2017", "address": "RA U1/48 TEMASYA INDUSTRIAL PARK 401", "total": "."}

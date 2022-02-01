@@ -1,0 +1,1 @@
+{"company": "SANYU STATIONERY SHOP NO. 3", "date": "24/10/2017", "address": "SETIA INDAH X ,U13/X 40170 SETIA ALAM MOBILE /WHA", "total": "."}

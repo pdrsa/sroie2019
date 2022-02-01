@@ -1,0 +1,1 @@
+{"company": "GOLDEN ARCHES RESTAU", "date": "06-2866-079", "address": "LAN SS21/39,47400 PETAL", "total": "03-2726-5600"}

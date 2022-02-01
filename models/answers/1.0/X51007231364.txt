@@ -1,0 +1,1 @@
+{"company": "132 GERBANG ALAF REST", "date": "07-5548-942", "address": "DONALD'S LEVEL 6, BANGUNAN", "total": "32."}

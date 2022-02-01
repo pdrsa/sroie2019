@@ -1,0 +1,1 @@
+{"company": "SOUP & PORRIDGE LOT", "date": "05-06-2018", "address": "TAS SG. BULOH, ARAH UTARA,", "total": "0.30"}

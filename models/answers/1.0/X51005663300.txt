@@ -1,0 +1,1 @@
+{"company": "IM SENG THO HARDWAR", "date": "02/02/2018", "address": "LLAGE, JALAN IPOH BAT", "total": ".00"}

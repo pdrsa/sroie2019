@@ -1,0 +1,1 @@
+{"company": "RIKAT P", "date": "25/01/2018", "address": "290, JALAN AIR PANAS, SETAPAK, 53200, KUALA LU", "total": "10.80"}

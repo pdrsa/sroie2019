@@ -1,0 +1,1 @@
+{"company": "SIMPLIFIED TAX INVOI", "date": "29/01/2018", "address": "O: 001930047488 NO.47, JALAN 3/36,", "total": "1.26"}

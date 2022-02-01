@@ -1,0 +1,1 @@
+{"company": "STEAKHOUSE", "date": "01-01-2017", "address": "ALAM, SELANGO", "total": "6.08"}

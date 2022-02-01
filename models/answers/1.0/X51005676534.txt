@@ -1,0 +1,1 @@
+{"company": "SYARIKAT PERNIA", "date": "03/01/2018", "address": "N AIR PANAS, SETAPAK, 53200, KUALA LUMPUR. TEL : 03-40210276 GST ID : 0007", "total": "4.08"}

@@ -1,0 +1,1 @@
+{"company": "RESTORAN W", "date": "29-06-2018", "address": "AS, 43200 CHERAS, SELANGOR GST R", "total": "."}

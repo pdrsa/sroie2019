@@ -1,0 +1,1 @@
+{"company": "MOONLIGHT CAKE HOUSE", "date": "18/06/11", "address": "A 81750 JOHOR BAHRU, J", "total": "1.80"}

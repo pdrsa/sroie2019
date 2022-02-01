@@ -1,0 +1,1 @@
+{"company": "NASI KANDAR PELITA PELITA SAM", "date": "03/06/2018", "address": "-P NO.2-1,JALA", "total": "03/06/2018"}

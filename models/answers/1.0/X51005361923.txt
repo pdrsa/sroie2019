@@ -1,0 +1,1 @@
+{"company": "SWC ENTERPRISE SDN B", "date": "02/01/2018", "address": "JOK PERMAI 1, PUSAT N", "total": "50.20"}

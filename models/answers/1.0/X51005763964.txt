@@ -1,0 +1,1 @@
+{"company": "YONG CEN ENTERPRISE", "date": "06/01/2018", "address": "ALAM, SELANGOR TEL: 012-9719498 GST NO:", "total": "0.00"}

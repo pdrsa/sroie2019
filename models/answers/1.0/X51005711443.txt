@@ -1,0 +1,1 @@
+{"company": "RESTORAN WAN SHENG", "date": "23-03-2018", "address": "MAHKOTA CHERAS, 43200 CHERAS, SELAN", "total": "0.37"}

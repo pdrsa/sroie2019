@@ -1,0 +1,1 @@
+{"company": "KOREAN", "date": "19/06/2018", "address": "NO 4, JALAN PERMAS", "total": "13.90"}

@@ -1,0 +1,1 @@
+{"company": "SEN LEE HEONG R", "date": "12-01-2018", "address": "NUE NO.1, JLN 1/38A , SEGAMBUT BAHAGIA, 5", "total": "11372"}

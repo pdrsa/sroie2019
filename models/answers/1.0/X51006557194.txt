@@ -1,0 +1,1 @@
+{"company": "GARDENIA BAKERIES (KL) SDN BHD (", "date": "13/10/2017", "address": "X) LOT 3, JALAN PELABUR 23/1, 40300 SHAH ALAM,", "total": "2.40"}

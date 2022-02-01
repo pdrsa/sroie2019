@@ -1,0 +1,1 @@
+{"company": "SUPER TERMINAL SDN B", "date": "20/01/2018", "address": "CITY, JALAN KUCHING, 52100 KUALA LUMPUR TEL: +6", "total": "-1801-00883"}

@@ -1,0 +1,1 @@
+{"company": "LIM SENG THO HARDWAR", "date": "09/02/2018", "address": "TU VILLAGE, JALAN IPO", "total": "8."}

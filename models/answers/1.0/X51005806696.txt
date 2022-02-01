@@ -1,0 +1,1 @@
+{"company": "IMAGE PRINTEC (M) SD", "date": "23/02/2018", "address": ", 53300 KUALA LUMPUR.", "total": "0.43"}

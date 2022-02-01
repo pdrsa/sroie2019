@@ -1,0 +1,1 @@
+{"company": "TEO HENG STATIONERY & BOOKS", "date": "27/01/2018", "address": "R DARUL EHSAN TEL : 03-3271 9872 FAX : 03-3271 9481 GST NO", "total": "25.80"}

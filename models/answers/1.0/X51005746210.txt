@@ -1,0 +1,1 @@
+{"company": "SEGI CASH & CARRY SDN.", "date": "12 MAR 2018", "address": "20 SEK U9, SHAH ALAM GST REG", "total": "145.10"}

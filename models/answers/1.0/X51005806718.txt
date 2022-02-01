@@ -1,0 +1,1 @@
+{"company": "HUGO TRADING SDN BHD", "date": "13/01/2018", "address": "SELANGOR, 43300 SE", "total": "2.31"}

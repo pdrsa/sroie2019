@@ -1,0 +1,1 @@
+{"company": "LIM SENG THO HARDWA", "date": "08/02/2018", "address": "U 5, 51200 KUALA", "total": "."}

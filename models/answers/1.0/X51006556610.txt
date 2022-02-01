@@ -1,0 +1,1 @@
+{"company": "PINGHWAI TRADING SDN", "date": "22/08/2017", "address": "1211036-W) NO.2, JALAN", "total": "400.00"}

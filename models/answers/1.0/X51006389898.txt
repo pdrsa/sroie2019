@@ -1,0 +1,1 @@
+{"company": "N WAN SHE 00", "date": "29-09-2017", "address": "CHERAS, SELANGOR GST", "total": "5"}

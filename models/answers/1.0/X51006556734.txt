@@ -1,0 +1,1 @@
+{"company": "DENIA BAKERIES (KL)", "date": "04/08/2017", "address": ", J", "total": "."}

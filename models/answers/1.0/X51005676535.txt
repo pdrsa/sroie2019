@@ -1,0 +1,1 @@
+{"company": "SYARIKAT PERNIAG", "date": "30/12/2017", "address": "NAS, SETA", "total": "84.00"}

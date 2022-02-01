@@ -1,0 +1,1 @@
+{"company": "T PERNIAGAAN", "date": "01/02/2018", "address": "81109-A) NO 290. JAL", "total": "2.04"}

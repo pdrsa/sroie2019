@@ -1,0 +1,1 @@
+{"company": "MR. D.I.Y. (KUCHAI)", "date": "01-02-16", "address": "1-W LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERIN", "total": "1.49"}

@@ -1,0 +1,1 @@
+{"company": "HON HWA HARDWARE TRADIN", "date": "06/04/2017", "address": "94X NO 37, JALAN MANIS 7,", "total": "0.41"}

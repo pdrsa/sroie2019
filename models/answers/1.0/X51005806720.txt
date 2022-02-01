@@ -1,0 +1,1 @@
+{"company": "SATU KAMPUNG ENTERPR", "date": "13/01/2018", "address": "LAN PUTRA PERMAI,", "total": "18.87"}

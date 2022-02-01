@@ -1,0 +1,1 @@
+{"company": "TAX INVOICE FLORISM", "date": "14/01/2018", "address": "KUALA LUMPUR, MALAYSIA. TEL", "total": "42.45"}

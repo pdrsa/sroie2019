@@ -49,3 +49,23 @@ class TrainDataset(Dataset):
             labels[i][x] = 1
 
         return text_tensor, labels, receipt[0]
+    
+class TestDataset(Dataset):
+    def __init__(self):
+        self.VOCAB        = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~ \t\n'
+        self.receipts     = list(torch.load('datasets/test.pth').items())
+        
+    def __len__(self):
+        return len(self.receipts)
+
+    def __getitem__(self, idx):
+        receipt     = self.receipts[idx]
+        text_tensor = torch.zeros(2048, dtype=torch.long)
+        
+        for i, char in enumerate(receipt[1]):
+            text_tensor[i] = self.VOCAB.find(char)+1
+        
+        comp, addr, total, date = read_line_from_json("truth/"+ receipt[0] +".txt")
+        labels = {"company": comp, "address": addr, "total": total, "date": date}
+        
+        return text_tensor, receipt[1], receipt[0]

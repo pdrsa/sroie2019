@@ -1,0 +1,1 @@
+{"company": "IKANO HANDEL SDN BHD (", "date": "09/06/18", "address": "154944 TAX INVOICE SLIP:", "total": "."}

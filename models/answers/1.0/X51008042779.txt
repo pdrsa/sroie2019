@@ -1,0 +1,1 @@
+{"company": "N WAN SHENG", "date": "05-05-2018", "address": "NO.2, JALAN TEMENG", "total": "7.18"}

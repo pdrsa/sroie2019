@@ -1,0 +1,1 @@
+{"company": "SWC ENTERPRISE SDN BHD", "date": "08/01/2018", "address": "0 BATANG KALI, SELANGOR. TEL : 03-6057 1377 TAX INVOICE (GST ID NO. : 002", "total": "8."}

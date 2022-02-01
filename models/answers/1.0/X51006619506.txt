@@ -1,0 +1,1 @@
+{"company": "KEDAI UBAT & RUNCIT", "date": "24/12/16", "address": "56) NO.8,JALAN LANG", "total": "J."}

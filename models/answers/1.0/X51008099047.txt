@@ -1,0 +1,1 @@
+{"company": "RESTORAN WAN SHEN", "date": "21-06-2018", "address": "N 9, BANDAR MAHKOTA", "total": "0."}

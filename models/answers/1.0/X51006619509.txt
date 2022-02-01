@@ -1,0 +1,1 @@
+{"company": "GUDANG HASIL RESTAUR", "date": "02-12-2016", "address": ":001706905600)", "total": "8"}

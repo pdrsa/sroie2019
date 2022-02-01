@@ -1,0 +1,1 @@
+{"company": "GMAS BOOKCENTR", "date": "02/04/2017", "address": "I 1/1, BD", "total": "0.24"}

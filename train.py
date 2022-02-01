@@ -20,7 +20,7 @@ from tqdm import tqdm
 
 
 device = torch.device('cuda:0')
-epochs = 50
+epochs = 1000
 
 
 # In[3]:

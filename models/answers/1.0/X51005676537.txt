@@ -1,0 +1,1 @@
+{"company": "SYARIKAT PERNIAGAAN", "date": "03/01/2018", "address": "290, JALAN AIR PANAS, SETAPAK, 53200, KUALA LUMPUR TEL : 03-40210276 GST I", "total": "5.34"}

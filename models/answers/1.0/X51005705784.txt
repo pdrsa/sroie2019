@@ -1,0 +1,1 @@
+{"company": "KEDAI BUKU NEW ACHEI", "date": "15/09/2017", "address": "SHAH ALAM, SELANGOR D.", "total": "45.28"}

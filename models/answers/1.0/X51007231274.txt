@@ -1,0 +1,1 @@
+{"company": "UNIHAKKA INTERNATION", "date": "06 MAY 2018", "address": "12, JALAN TAMPOI 7/4,KAWASAN PE", "total": "6.89"}

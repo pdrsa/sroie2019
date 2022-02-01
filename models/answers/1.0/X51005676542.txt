@@ -1,0 +1,1 @@
+{"company": "SYARIKAT PERNIAGAAN", "date": "29/12/2017", "address": "N AIR PANAS, SETAPA", "total": "0.60"}

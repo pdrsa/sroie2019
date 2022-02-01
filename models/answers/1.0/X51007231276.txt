@@ -1,0 +1,1 @@
+{"company": "UNIHAKKA INTERNATION", "date": "02 MAY 2018", "address": "7/4,KAWASAN P", "total": "7.74"}
